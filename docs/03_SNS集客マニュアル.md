@@ -51,7 +51,7 @@
 
 ### 1-2 リタリコブログ更新
 
-**リンク：** https://dd-career.com/office_data/it-otakanomori/
+**リンク：** https://snabi.jp/biz/facilities/28897/blog_articles
 
 **目的：** 事業所の詳細情報を SEO 対策と合わせて発信
 
