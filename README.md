@@ -12,6 +12,9 @@
 ### 作業系
 - [作業系マニュアル](docs/01_作業系マニュアル.md) - 弁当関連、施設管理、その他の作業
 
+### 事務系
+- [事務系マニュアル](docs/02_事務系マニュアル.md) - 利用者管理、モニタリング、月次報告書、新規対応、集客
+
 ## リンク
 - **Google Sheets（作業内容一覧）:** https://docs.google.com/spreadsheets/d/1EyUYJ8d1WnYg-0qfmYMKAQ-g9saLraFPkkFYjK3m1FA/
 - **Google Slides（スライド版）:** [作成予定]
