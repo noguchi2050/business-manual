@@ -15,6 +15,9 @@
 ### 事務系
 - [事務系マニュアル](docs/02_事務系マニュアル.md) - 利用者管理、モニタリング、月次報告書、新規対応、集客
 
+### SNS・集客
+- [SNS集客マニュアル](docs/03_SNS集客マニュアル.md) - X・ブログ運用、Google Map、WEB集客戦略、月6件目標達成
+
 ## リンク
 - **Google Sheets（作業内容一覧）:** https://docs.google.com/spreadsheets/d/1EyUYJ8d1WnYg-0qfmYMKAQ-g9saLraFPkkFYjK3m1FA/
 - **Google Slides（スライド版）:** [作成予定]
