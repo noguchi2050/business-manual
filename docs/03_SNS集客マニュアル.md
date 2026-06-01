@@ -440,12 +440,9 @@ A: 報告ボタンをクリックして Google に通報。その後、上長に
 
 ## 6. 関連資料・リンク集
 
-- **HP管理画面：** https://dd-career.com/office_data/it-otakanomori/
-- **本部ブログ：** https://dd-career.com/blog/
-- **Google ビジネス プロフィール：** [アカウント名]
-- **X（Twitter）：** https://x.com/DCOtakanomori
-- **Google アナリティクス：** [データを見るリンク]
-- **実績管理シート：** [Google Sheets リンク]
+- **リタリコブログ管理画面：** https://snabi.jp/biz/facilities/28897/blog_articles
+- **X（Twitter）アカウント：** https://x.com/DCOtakanomori
+- **Google ビジネス プロフィール管理：** https://www.google.com/search?q=%E5%B0%B1%E5%8A%B4%E7%A7%BB%E8%A1%8C%E6%94%AF%E6%8F%B4%E4%BA%8B%E6%A5%AD%E6%89%80%E3%83%87%E3%82%A3%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2it%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%83%BC%E3%83%88+%E3%81%8A%E3%81%8A%E3%81%9F%E3%81%8B%E3%81%AE%E6%A3%AE%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9&oq=&gs_lcrp=EgZjaHJvbWUqCQgBECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQkxNjAwajBqMTWoAgiwAgHxBf8qS2lckWxx&sourceid=chrome&ie=UTF-8
 
 ---
 
