@@ -34,6 +34,9 @@
 ### SNS・集客
 - [SNS集客マニュアル](docs/03_SNS集客マニュアル.md) - X・ブログ運用、Google Map、WEB集客戦略、月6件目標達成
 
+### コンプライアンス・検査
+- [実地検査対策チェックリスト](docs/04_実地検査対策チェックリスト.md) - STEP別検査準備、現場スタッフ向け詳細ガイド
+
 ## リンク
 - **Google Sheets（作業内容一覧）:** https://docs.google.com/spreadsheets/d/1EyUYJ8d1WnYg-0qfmYMKAQ-g9saLraFPkkFYjK3m1FA/
 - **Google Slides（スライド版）:** [作成予定]
