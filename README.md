@@ -48,6 +48,7 @@
 
 ### コンプライアンス・検査
 - [実地検査対策チェックリスト](docs/04_実地検査対策チェックリスト.md) - STEP別検査準備、現場スタッフ向け詳細ガイド
+- [実地検査対応スケジュール](docs/05_実地検査対応スケジュール.md) - 指摘17件の優先度分類・期限・Issue管理
 
 ## リンク
 - **Google Sheets（作業内容一覧）:** https://docs.google.com/spreadsheets/d/1EyUYJ8d1WnYg-0qfmYMKAQ-g9saLraFPkkFYjK3m1FA/
